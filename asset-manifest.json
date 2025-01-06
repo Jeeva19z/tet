@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tet/static/css/main.db09250c.css",
+    "main.js": "/tet/static/js/main.d9fbc948.js",
+    "index.html": "/tet/index.html",
+    "main.db09250c.css.map": "/tet/static/css/main.db09250c.css.map",
+    "main.d9fbc948.js.map": "/tet/static/js/main.d9fbc948.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db09250c.css",
+    "static/js/main.d9fbc948.js"
+  ]
+}
