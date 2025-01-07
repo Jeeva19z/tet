@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tet/static/css/main.db09250c.css",
-    "main.js": "/tet/static/js/main.d9fbc948.js",
-    "index.html": "/tet/index.html",
-    "main.db09250c.css.map": "/tet/static/css/main.db09250c.css.map",
-    "main.d9fbc948.js.map": "/tet/static/js/main.d9fbc948.js.map"
+    "main.css": "/todo-react-test01/static/css/main.db09250c.css",
+    "main.js": "/todo-react-test01/static/js/main.d9fbc948.js",
+    "index.html": "/todo-react-test01/index.html",
+    "main.db09250c.css.map": "/todo-react-test01/static/css/main.db09250c.css.map",
+    "main.d9fbc948.js.map": "/todo-react-test01/static/js/main.d9fbc948.js.map"
   },
   "entrypoints": [
     "static/css/main.db09250c.css",
